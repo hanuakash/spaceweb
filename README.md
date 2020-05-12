@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bhanupallapothu/Space%20Game%20-web%20-Pipeline/_apis/build/status/hanuakash.spaceweb?branchName=master)](https://dev.azure.com/bhanupallapothu/Space%20Game%20-web%20-Pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
